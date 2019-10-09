@@ -50,6 +50,7 @@ hr{
     bottom: 15px;
     right: 15px;
     display: none;
+    z-index: 999;
 }
 /* Floating button style */
 
